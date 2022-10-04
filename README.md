@@ -1,4 +1,6 @@
 # Testing Header
+![Image of Mouse](https://user-images.githubusercontent.com/113994493/193882687-1d229548-6ae4-493c-ac18-4b4a9d9db2c5.jpg)
+
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
